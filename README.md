@@ -1,2 +1,3 @@
 # ShoppingCart
-School Assignment ShoppingCart
+School Assignment ShoppingCart made by Volkan
+
